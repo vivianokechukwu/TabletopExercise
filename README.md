@@ -26,10 +26,10 @@ I designed and led a PCI DSS 12.10 tabletop exercise simulating a malware-driven
 
 <h2>Results & Impact</h2>
 
-- Strengthened Target’s PCI DSS 4.0 incident response maturity.<br>
-- Reduced detection-to-escalation gaps by defining escalation playbooks.<br>
+- Strengthened the organization's PCI DSS 4.0 incident response maturity.<br>
+- Reduced detection to escalation gaps by defining escalation playbooks.<br>
 - Improved communication speed and clarity across business, legal, and technical teams.<br>
-- Ensured Target is better positioned to protect customers, meet compliance obligations, and safeguard brand reputation.
+- Ensured the organization is better positioned to protect customers, meet compliance obligations, and safeguard brand reputation.
 
 <!--
  ```diff
