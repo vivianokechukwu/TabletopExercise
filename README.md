@@ -1,4 +1,4 @@
-<h1>PCI DSS Tabletop Exercise – Simulated Cardholder Data Breach</h1>
+<h1>Simulated Cardholder Data Breach - PCI DSS 12.10 Incident Response</h1>
 
 <h2>Description</h2>
 
