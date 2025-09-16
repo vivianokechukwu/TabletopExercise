@@ -1,4 +1,4 @@
-<h1>Simulated Cardholder Data Breach - PCI DSS 12.10 Incident Response</h1>
+<h1>Tabletop Exercise for Cardholder Data Breach - PCI DSS 12.10 Incident Response</h1>
 
 <h2>Description</h2>
 
